@@ -1,4 +1,4 @@
 foo-test
 ========
 
-testing practice w/ qunit
+super important foo tests
